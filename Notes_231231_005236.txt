@@ -1,0 +1,13 @@
+{
+    "type": "wireguard",
+    "server": "188.114.97.2",
+    "server_port": 2408,
+    "local_address": [
+        "172.16.0.2\/32",
+        "2606:4700:110:8177:d4b7:6375:c8d:eb6b\/128"
+    ],
+    "private_key": "yFGV\/yewp0Yk3SDS+DL2tSCQ7Z\/8dUDWDsVnLHVH5XE=",
+    "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo=",
+    "mtu": 1280,
+    "reserved": "Dwru"
+}
